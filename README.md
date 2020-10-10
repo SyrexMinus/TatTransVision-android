@@ -21,4 +21,4 @@ TatTransVision Android is a tatar-russian (or vice versa) photo translator on An
 
 # Tips
 
-- If translation does not work. That means that sever is off. You can not do with this anything.
+- If translation does not work, that means that sever is off. You can not do with this anything.
