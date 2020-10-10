@@ -5,6 +5,9 @@ TatTransVision Android is a tatar-russian (or vice versa) photo translator on An
   - It uses TatTransVision API
   - Can translate text from photo
 
+<img src="https://i.ibb.co/92kFf3Z/photo-2020-09-27-14-32-59.jpg" alt="Main menu screenshot" width="300"/>
+<img src="https://i.ibb.co/L8m9fdj/photo-2020-09-27-14-33-00.jpg" alt="Translation menu screenshot" width="300"/>
+
 # Installation
 
  1. Download Android studio
