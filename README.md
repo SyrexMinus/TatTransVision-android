@@ -15,3 +15,7 @@ TatTransVision Android is a tatar-russian (or vice versa) photo translator on An
  5. Press "Run app" button in Android studio
  6. Wait. Android studio will install app on your phone.
  7. Done. If you did every step well, app will start on your phone automaticaly. Since now you can disconnect USB and run app whenever you want.
+
+# Tips
+
+- If translation does not work. That means that sever is off. You can not do with this anything.
