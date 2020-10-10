@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TatTransVision</string>
+    <string name="make_photo">Сделать снимок</string>
+    <string name="hello_text">Русско-Татарский переводчик</string>
+    <string name="open_picture">Открыть картинку</string>
+    <string name="tatarian">Татарский</string>
+    <string name="russian">Русский</string>
+</resources>
